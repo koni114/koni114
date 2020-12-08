@@ -1,4 +1,4 @@
-# JaeHun Hur
+# JaeHun Hur(Jaebig)
 
 ### Data Scientist
 - Data scientist in Manufacturing field
