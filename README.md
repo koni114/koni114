@@ -1,7 +1,7 @@
 # JaeHun Hur(Jaebig)
 
 ### Data Scientist
-- Data scientist in Manufacturing field
+- Data scientist in Manufacturing industry
 - I try to acquire skills without dividing the fields of Data Engineering & Data Analysis.
 
 
