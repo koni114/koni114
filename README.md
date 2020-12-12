@@ -6,7 +6,8 @@
 
 
 ### Interest
+- MLOps(MLOps automation)
 - Machine Learning pipeline design and development
 - Machine Learning Model development
 - Data Visualization
-- R, python-based Analysis module development 
+- Language : R, python, scala, java
