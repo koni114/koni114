@@ -1,6 +1,6 @@
 # JaeHun Hur(Jaebig)
 
-### ML Engineer
+### Machine Learning Engineer & Data Analyst
 - ML Engineer in Manufacturing industry
 - I try to acquire skills without dividing the fields of Data Engineering & Data Analysis.
 
