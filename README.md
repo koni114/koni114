@@ -10,5 +10,5 @@
 - Machine Learning pipeline design and development
 - Machine Learning Model development
 - Data pipeline
-- Data Visualization
+- Data Analyst & Data Visualization 
 - Language : R, python
