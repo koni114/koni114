@@ -6,9 +6,9 @@
 
 
 ### Interest
-- MLOps(MLOps automation)
-- Machine Learning pipeline design and development
-- Machine Learning Model development
 - Data pipeline
+- Machine Learning pipeline 
 - Data Analyst & Data Visualization 
-- Language : R, python
+- MLOps(MLOps automation)
+- Machine Learning Model development
+- Language : Python, R 
