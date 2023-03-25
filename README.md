@@ -5,6 +5,7 @@
 - I try to acquire skills without dividing the fields of Data Engineering & ML Engineering
 
 ### Interest
+- Data Engineering
 - Big Data/AI platform
 - Data & ML pipeline automation
 - AI Model Serving 
