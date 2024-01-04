@@ -1,8 +1,8 @@
-# JaeHun Hur(Jaebig)
+# JaeHun Hur
 
 ## Data Engineer & MLOps Engineer
-- ML Engineer & data engineer in Manufacturing industry
-- I try to acquire skills without dividing the fields of Data Engineering & ML Engineering
+- ML Engineer & data engineer
+- I try to acquire skills without dividing the fields of Data Engineering & MLOps Engineer
 
 ### Interest
 - Data Engineering
